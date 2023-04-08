@@ -1,5 +1,11 @@
-### Olá pessoas, bem vindos ao meu perfil no Github 👋
+## Olá pessoas, bem vindos ao meu perfil no Github 👋
 Me chamo Joel Barbosa e atualmente estou aprendendo a linguagem de programação Python e também Banco de Dados.🌱
+
+### Aprendendo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+
+          
+          
 
 ✅ Os diretórios que inicialmente disponibilizo aqui são apenas pequenos projetos que desenvolvo para fins acadêmicos 
 mas são bem funcionais e de licensa gratuita.
