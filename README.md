@@ -3,9 +3,8 @@ Me chamo Joel Barbosa e atualmente estou aprendendo a linguagem de programação
 
 ### Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="50"/>                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-
-          
+                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="50"/>                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>                                               
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"           
           
 
 ✅ Os diretórios que inicialmente disponibilizo aqui são apenas pequenos projetos que desenvolvo para fins acadêmicos 
